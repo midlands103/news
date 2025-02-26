@@ -1,0 +1,74 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Midlands News</title>
+<description>Midlands News</description>
+<link>https://underbred-tooth.000webhostapp.com/</link>
+<atom:link href="https://midlands-podcast.s3.us-east-2.amazonaws.com/rss/rss.xml" ref="self" type="application/rss+xml"/>
+<language>en-us</language>
+<generator>Raspberry Pi</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<itunes:image href="https://mmo.aiircdn.com/277/617c1ef06477b.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+<image>
+<url>https://mmo.aiircdn.com/277/62deae5756320.jpg</url>
+<title>Midlands News</title>
+<link>https://midlands-podcast.s3.us-east-2.amazonaws.com/rss/</link>
+</image>
+<pubDate>Wed, 26 Feb 2025 09:35:56 +0000</pubDate>
+<lastBuildDate>Wed, 26 Feb 2025 09:35:56 +0000</lastBuildDate>
+<item>
+  <title>09:00 24/02/2025</title>
+  <description></description>
+  <pubDate>Mon, 24 Feb 2025 09:30:04 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502240859.mp3" length="28M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>13:00 24/02/2025</title>
+  <description></description>
+  <pubDate>Mon, 24 Feb 2025 13:18:06 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502241259.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>18:00 24/02/2025</title>
+  <description></description>
+  <pubDate>Mon, 24 Feb 2025 18:18:04 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502241759.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>21:00 24/02/2025</title>
+  <description></description>
+  <pubDate>Mon, 24 Feb 2025 21:10:03 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502242059.mp3" length="9.3M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>09:00 25/02/2025</title>
+  <description></description>
+  <pubDate>Tue, 25 Feb 2025 09:30:03 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502250859.mp3" length="28M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>13:00 25/02/2025</title>
+  <description></description>
+  <pubDate>Tue, 25 Feb 2025 13:18:04 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502251259.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>18:00 25/02/2025</title>
+  <description></description>
+  <pubDate>Tue, 25 Feb 2025 18:18:04 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502251759.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>21:00 25/02/2025</title>
+  <description></description>
+  <pubDate>Tue, 25 Feb 2025 21:10:04 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502252059.mp3" length="9.3M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>09:00 26/02/2025</title>
+  <description></description>
+  <pubDate>Wed, 26 Feb 2025 09:30:04 +0000</pubDate>
+  <enclosure url="https://midlands-podcast.s3.us-east-2.amazonaws.com/mp3/202502260859.mp3" length="28M" type="audio/mpeg" />
+  </item>
+</channel>
+</rss>
