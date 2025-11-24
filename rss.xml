@@ -14,14 +14,8 @@
 <title>Midlands News</title>
 <link>https://midlands103.github.io/news/</link>
 </image>
-<pubDate>Sun, 23 Nov 2025 19:14:03 +0000</pubDate>
-<lastBuildDate>Sun, 23 Nov 2025 19:14:03 +0000</lastBuildDate>
-<item>
-  <title>21:00 21/11/2025</title>
-  <description></description>
-  <pubDate>Fri, 21 Nov 2025 21:11:30 +0000</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202511212059.mp3" length="9.3M" type="audio/mpeg" />
-  </item>
+<pubDate>Mon, 24 Nov 2025 09:37:26 +0000</pubDate>
+<lastBuildDate>Mon, 24 Nov 2025 09:37:26 +0000</lastBuildDate>
 <item>
   <title>10:00 22/11/2025</title>
   <description></description>
@@ -51,6 +45,12 @@
   <description></description>
   <pubDate>Sun, 23 Nov 2025 19:11:36 +0000</pubDate>
   <enclosure url="https://midlands103.github.io/news/202511231859.mp3" length="9.3M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>09:00 24/11/2025</title>
+  <description></description>
+  <pubDate>Mon, 24 Nov 2025 09:34:42 +0000</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202511240859.mp3" length="28M" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
