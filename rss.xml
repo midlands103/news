@@ -14,13 +14,13 @@
 <title>Midlands News</title>
 <link>https://midlands103.github.io/news/</link>
 </image>
-<pubDate>Fri, 20 Mar 2026 09:01:43 +0000</pubDate>
-<lastBuildDate>Fri, 20 Mar 2026 09:01:43 +0000</lastBuildDate>
+<pubDate>Fri, 20 Mar 2026 13:01:51 +0000</pubDate>
+<lastBuildDate>Fri, 20 Mar 2026 13:01:51 +0000</lastBuildDate>
 <item>
-  <title>09:00 18/03/2026</title>
+  <title></title>
   <description></description>
-  <pubDate>Wed, 18 Mar 2026 09:34:47 +0000</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202603180859.mp3" length="28M" type="audio/mpeg" />
+  <pubDate></pubDate>
+  <enclosure url="https://midlands103.github.io/news/*.mp3" length="" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
