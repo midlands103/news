@@ -14,38 +14,8 @@
 <title>Midlands News</title>
 <link>https://midlands103.github.io/news/</link>
 </image>
-<pubDate>Wed, 02 Sep 2026 18:20:24 +0100</pubDate>
-<lastBuildDate>Wed, 02 Sep 2026 18:20:24 +0100</lastBuildDate>
-<item>
-  <title>20:00 31/08/2026</title>
-  <description></description>
-  <pubDate>Mon, 31 Aug 2026 20:52:51 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202603202003.mp3" length="12M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>20:00 31/08/2026</title>
-  <description></description>
-  <pubDate>Mon, 31 Aug 2026 20:52:51 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202603262345.mp3" length="1.4M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>20:00 31/08/2026</title>
-  <description></description>
-  <pubDate>Mon, 31 Aug 2026 20:53:52 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202608312008.mp3" length="464K" type="audio/mpeg" />
-  </item>
-<item>
-  <title>20:00 31/08/2026</title>
-  <description></description>
-  <pubDate>Mon, 31 Aug 2026 20:53:52 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202608312023.mp3" length="456K" type="audio/mpeg" />
-  </item>
-<item>
-  <title>21:00 31/08/2026</title>
-  <description></description>
-  <pubDate>Mon, 31 Aug 2026 21:10:33 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202608312059.mp3" length="9.3M" type="audio/mpeg" />
-  </item>
+<pubDate>Wed, 02 Sep 2026 21:13:59 +0100</pubDate>
+<lastBuildDate>Wed, 02 Sep 2026 21:13:59 +0100</lastBuildDate>
 <item>
   <title>09:00 01/09/2026</title>
   <description></description>
@@ -87,6 +57,12 @@
   <description></description>
   <pubDate>Wed, 02 Sep 2026 18:19:10 +0100</pubDate>
   <enclosure url="https://midlands103.github.io/news/202609021759.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>21:00 02/09/2026</title>
+  <description></description>
+  <pubDate>Wed, 02 Sep 2026 21:12:39 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202609022059.mp3" length="12M" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
