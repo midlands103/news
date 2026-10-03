@@ -14,26 +14,8 @@
 <title>Midlands News</title>
 <link>https://midlands103.github.io/news/</link>
 </image>
-<pubDate>Fri, 02 Oct 2026 18:31:18 +0100</pubDate>
-<lastBuildDate>Fri, 02 Oct 2026 18:31:18 +0100</lastBuildDate>
-<item>
-  <title>21:00 30/09/2026</title>
-  <description></description>
-  <pubDate>Wed, 30 Sep 2026 21:12:40 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202609302059.mp3" length="12M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>09:00 01/10/2026</title>
-  <description></description>
-  <pubDate>Thu, 01 Oct 2026 09:31:47 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610010859.mp3" length="28M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>13:00 01/10/2026</title>
-  <description></description>
-  <pubDate>Thu, 01 Oct 2026 13:19:09 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610011259.mp3" length="17M" type="audio/mpeg" />
-  </item>
+<pubDate>Sat, 03 Oct 2026 14:22:55 +0100</pubDate>
+<lastBuildDate>Sat, 03 Oct 2026 14:22:55 +0100</lastBuildDate>
 <item>
   <title>18:00 01/10/2026</title>
   <description></description>
@@ -63,6 +45,24 @@
   <description></description>
   <pubDate>Fri, 02 Oct 2026 18:19:14 +0100</pubDate>
   <enclosure url="https://midlands103.github.io/news/202610021759.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>21:00 02/10/2026</title>
+  <description></description>
+  <pubDate>Fri, 02 Oct 2026 21:12:42 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610022059.mp3" length="12M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>10:00 03/10/2026</title>
+  <description></description>
+  <pubDate>Sat, 03 Oct 2026 10:12:42 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610030959.mp3" length="12M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>14:00 03/10/2026</title>
+  <description></description>
+  <pubDate>Sat, 03 Oct 2026 14:12:39 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610031359.mp3" length="12M" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
