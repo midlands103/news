@@ -14,55 +14,37 @@
 <title>Midlands News</title>
 <link>https://midlands103.github.io/news/</link>
 </image>
-<pubDate>Sat, 03 Oct 2026 14:22:55 +0100</pubDate>
-<lastBuildDate>Sat, 03 Oct 2026 14:22:55 +0100</lastBuildDate>
+<pubDate>Mon, 05 Oct 2026 18:49:11 +0100</pubDate>
+<lastBuildDate>Mon, 05 Oct 2026 18:49:11 +0100</lastBuildDate>
 <item>
-  <title>18:00 01/10/2026</title>
+  <title>19:00 03/10/2026</title>
   <description></description>
-  <pubDate>Thu, 01 Oct 2026 18:19:09 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610011759.mp3" length="17M" type="audio/mpeg" />
+  <pubDate>Sat, 03 Oct 2026 19:12:41 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610031859.mp3" length="12M" type="audio/mpeg" />
   </item>
 <item>
-  <title>21:00 01/10/2026</title>
+  <title>10:00 04/10/2026</title>
   <description></description>
-  <pubDate>Thu, 01 Oct 2026 21:12:44 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610012059.mp3" length="12M" type="audio/mpeg" />
+  <pubDate>Sun, 04 Oct 2026 10:12:41 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610040959.mp3" length="12M" type="audio/mpeg" />
   </item>
 <item>
-  <title>09:00 02/10/2026</title>
+  <title>09:00 05/10/2026</title>
   <description></description>
-  <pubDate>Fri, 02 Oct 2026 09:31:48 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610020859.mp3" length="28M" type="audio/mpeg" />
+  <pubDate>Mon, 05 Oct 2026 09:31:51 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610050859.mp3" length="28M" type="audio/mpeg" />
   </item>
 <item>
-  <title>13:00 02/10/2026</title>
+  <title>13:00 05/10/2026</title>
   <description></description>
-  <pubDate>Fri, 02 Oct 2026 13:19:06 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610021259.mp3" length="17M" type="audio/mpeg" />
+  <pubDate>Mon, 05 Oct 2026 13:19:08 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610051259.mp3" length="17M" type="audio/mpeg" />
   </item>
 <item>
-  <title>18:00 02/10/2026</title>
+  <title>18:00 05/10/2026</title>
   <description></description>
-  <pubDate>Fri, 02 Oct 2026 18:19:14 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610021759.mp3" length="17M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>21:00 02/10/2026</title>
-  <description></description>
-  <pubDate>Fri, 02 Oct 2026 21:12:42 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610022059.mp3" length="12M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>10:00 03/10/2026</title>
-  <description></description>
-  <pubDate>Sat, 03 Oct 2026 10:12:42 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610030959.mp3" length="12M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>14:00 03/10/2026</title>
-  <description></description>
-  <pubDate>Sat, 03 Oct 2026 14:12:39 +0100</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202610031359.mp3" length="12M" type="audio/mpeg" />
+  <pubDate>Mon, 05 Oct 2026 18:19:08 +0100</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202610051759.mp3" length="17M" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
