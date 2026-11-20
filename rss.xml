@@ -14,26 +14,8 @@
 <title>Midlands News</title>
 <link>https://midlands103.github.io/news/</link>
 </image>
-<pubDate>Fri, 20 Nov 2026 13:31:53 +0000</pubDate>
-<lastBuildDate>Fri, 20 Nov 2026 13:31:53 +0000</lastBuildDate>
-<item>
-  <title>13:00 18/11/2026</title>
-  <description></description>
-  <pubDate>Wed, 18 Nov 2026 13:19:15 +0000</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202611181259.mp3" length="17M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>18:00 18/11/2026</title>
-  <description></description>
-  <pubDate>Wed, 18 Nov 2026 18:19:05 +0000</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202611181759.mp3" length="17M" type="audio/mpeg" />
-  </item>
-<item>
-  <title>21:00 18/11/2026</title>
-  <description></description>
-  <pubDate>Wed, 18 Nov 2026 21:12:43 +0000</pubDate>
-  <enclosure url="https://midlands103.github.io/news/202611182059.mp3" length="12M" type="audio/mpeg" />
-  </item>
+<pubDate>Fri, 20 Nov 2026 21:26:20 +0000</pubDate>
+<lastBuildDate>Fri, 20 Nov 2026 21:26:20 +0000</lastBuildDate>
 <item>
   <title>09:00 19/11/2026</title>
   <description></description>
@@ -69,6 +51,18 @@
   <description></description>
   <pubDate>Fri, 20 Nov 2026 13:19:14 +0000</pubDate>
   <enclosure url="https://midlands103.github.io/news/202611201259.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>18:00 20/11/2026</title>
+  <description></description>
+  <pubDate>Fri, 20 Nov 2026 18:19:13 +0000</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202611201759.mp3" length="17M" type="audio/mpeg" />
+  </item>
+<item>
+  <title>21:00 20/11/2026</title>
+  <description></description>
+  <pubDate>Fri, 20 Nov 2026 21:12:45 +0000</pubDate>
+  <enclosure url="https://midlands103.github.io/news/202611202059.mp3" length="12M" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
